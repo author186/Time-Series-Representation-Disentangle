@@ -1,7 +1,7 @@
 # Time Series Representation -- Cross dataset
 
 Folders:
-* eval/: experimental results (on UCR archive)
+* eval/: experimental results (on the UCR archive)
 * training/: trained models in experiments (corresponding to eval/)
 * models/
 * data/
